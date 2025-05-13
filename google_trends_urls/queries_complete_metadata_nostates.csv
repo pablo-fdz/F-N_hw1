@@ -1,0 +1,141 @@
+query,issue,type,rank_per_issue_type,first_appearance
+healthcare,healthcare,issue_label,1,2017-01
+health,healthcare,claim,1,2017-01
+criminal justice,guns_and_criminal_justice,issue_label,1,2017-01
+guns,guns_and_criminal_justice,issue_label,1,2017-01
+police,racism_and_immigration,claim,1,2017-01
+housing,housing,claim,1,2017-02
+gun,guns_and_criminal_justice,claim,1,2017-01
+students,racism_and_immigration,actor,1,2017-01
+immigration,racism_and_immigration,issue_label,1,2017-01
+racism,racism_and_immigration,issue_label,1,2017-01
+students,guns_and_criminal_justice,actor,1,2017-02
+housing,housing,issue_label,1,2017-01
+the valley of change,racism_and_immigration,actor,2,2020-06
+march for our lives,guns_and_criminal_justice,actor,2,2018-03
+freedom,healthcare,claim,2,2019-12
+nurses,healthcare,actor,2,2017-03
+racism,racism_and_immigration,claim,2,2017-01
+homeless,housing,claim,2,2017-02
+violence,guns_and_criminal_justice,claim,2,2017-01
+elected officials,racism_and_immigration,actor,3,2020-06
+gun violence,guns_and_criminal_justice,claim,3,2017-01
+brutality,racism_and_immigration,claim,3,2017-01
+elected officials,housing,actor,3,2021-01
+healthcare,healthcare,claim,3,2017-01
+people,housing,claim,3,2017-03
+families belong together,guns_and_criminal_justice,actor,3,2018-06
+united food and commercial workers local 7,healthcare,actor,3,2022-01
+may 30th alliance,racism_and_immigration,actor,4,2020-10
+supporters,housing,actor,4,2021-02
+police brutality,racism_and_immigration,claim,4,2017-01
+elected officials,healthcare,actor,4,2020-10
+rights,housing,claim,4,2017-04
+may 30th alliance,guns_and_criminal_justice,actor,4,2021-09
+antiracism,racism_and_immigration,claim,5,2020-05
+gun control,guns_and_criminal_justice,claim,5,2017-01
+teamsters local 553,healthcare,actor,5,2021-04
+homelessness,housing,claim,5,2017-03
+moms demand action,guns_and_criminal_justice,actor,5,2017-02
+wayne county racial justice coalition,racism_and_immigration,actor,5,2021-02
+students,housing,actor,6,2017-05
+elected officials,guns_and_criminal_justice,actor,6,2021-03
+antiracism police,racism_and_immigration,claim,6,2020-05
+affordable,housing,claim,6,2017-05
+students,healthcare,actor,6,2017-12
+schools,guns_and_criminal_justice,claim,6,2018-03
+violence schools,guns_and_criminal_justice,claim,7,2018-03
+antiracism police brutality,racism_and_immigration,claim,7,2020-05
+community members,housing,actor,7,2017-05
+patriot front,racism_and_immigration,actor,7,2017-09
+iuoe stationary engineers local 39,healthcare,actor,7,2021-09
+sakonnet peace alliance,guns_and_criminal_justice,actor,7,2017-01
+planned parenthood,guns_and_criminal_justice,actor,8,2021-09
+residents,housing,actor,8,2018-07
+rent,housing,claim,8,2017-05
+gun violence schools,guns_and_criminal_justice,claim,8,2018-03
+healthcare workers,healthcare,actor,8,2017-06
+families belong together,racism_and_immigration,actor,8,2018-06
+medical,healthcare,claim,8,2017-03
+racism police,racism_and_immigration,claim,8,2017-02
+schools gun,guns_and_criminal_justice,claim,9,2018-03
+national nurses united,healthcare,actor,9,2017-11
+family,racism_and_immigration,actor,9,2020-02
+rights,healthcare,claim,9,2017-02
+justice,racism_and_immigration,claim,9,2017-01
+affordable housing,housing,claim,9,2017-05
+tenants,housing,actor,9,2020-03
+students demand action,guns_and_criminal_justice,actor,9,2019-02
+community members,racism_and_immigration,actor,10,2017-01
+vaccination,healthcare,claim,10,2018-11
+massachusetts nurses association,healthcare,actor,10,2017-06
+house,housing,claim,10,2017-02
+camp resolution,housing,actor,10,2022-10
+the feminist front,guns_and_criminal_justice,actor,10,2022-06
+violence,racism_and_immigration,claim,10,2017-01
+schools gun control,guns_and_criminal_justice,claim,10,2018-03
+sweeps,housing,claim,11,2017-11
+violence schools gun,guns_and_criminal_justice,claim,11,2018-03
+lahaina strong,housing,actor,11,2023-10
+rights,racism_and_immigration,claim,11,2017-01
+drivers,healthcare,actor,11,2022-06
+upper east side for black lives matter,racism_and_immigration,actor,11,2020-06
+encampments,housing,claim,12,2020-05
+racism police brutality,racism_and_immigration,claim,12,2017-02
+new york communities for change,housing,actor,12,2017-08
+support gun,guns_and_criminal_justice,claim,13,2017-05
+black,racism_and_immigration,claim,13,2017-02
+stop hunting us,housing,actor,13,2023-01
+homeless encampments,housing,claim,13,2020-05
+police,housing,claim,14,2017-03
+racial,racism_and_immigration,claim,14,2017-01
+unhoused,housing,claim,15,2020-01
+higher pay,healthcare,claim,15,2020-08
+police violence,racism_and_immigration,claim,15,2017-04
+health care,healthcare,claim,16,2017-01
+gun reform,guns_and_criminal_justice,claim,16,2017-01
+eviction,housing,claim,16,2017-04
+safety,guns_and_criminal_justice,claim,17,2017-02
+evictions,housing,claim,17,2017-06
+racism police violence,racism_and_immigration,claim,17,2019-01
+vaccination mandates,healthcare,claim,17,2019-05
+tenants,housing,claim,18,2017-06
+rights,guns_and_criminal_justice,claim,18,2017-02
+trump,racism_and_immigration,claim,18,2017-01
+lives,racism_and_immigration,claim,19,2017-02
+support gun reform,guns_and_criminal_justice,claim,19,2018-04
+pandemic,housing,claim,19,2020-03
+unhoused people,housing,claim,20,2020-01
+matter,racism_and_immigration,claim,20,2017-02
+benefits,healthcare,claim,20,2017-01
+school safety,guns_and_criminal_justice,claim,20,2018-03
+black lives,racism_and_immigration,claim,21,2017-02
+reform school,guns_and_criminal_justice,claim,21,2018-04
+criminalization,housing,claim,21,2020-06
+abortion,healthcare,claim,21,2017-04
+white,racism_and_immigration,claim,22,2017-01
+gun reform school,guns_and_criminal_justice,claim,22,2018-04
+criminalization homelessness,housing,claim,23,2020-06
+reform school safety,guns_and_criminal_justice,claim,23,2018-04
+lives matter,racism_and_immigration,claim,23,2017-02
+immigrant,racism_and_immigration,claim,24,2017-01
+trump,healthcare,claim,24,2017-01
+justice,guns_and_criminal_justice,claim,24,2017-06
+university,housing,claim,24,2017-05
+patriotism,healthcare,claim,25,2020-03
+police,guns_and_criminal_justice,claim,25,2017-02
+black lives matter,racism_and_immigration,claim,25,2017-02
+support gun control,guns_and_criminal_justice,claim,26,2017-05
+local,housing,claim,26,2017-07
+insurance,healthcare,claim,26,2017-03
+ice,racism_and_immigration,claim,27,2017-01
+legislation,guns_and_criminal_justice,claim,27,2017-02
+jail,guns_and_criminal_justice,claim,28,2017-06
+immigrants,racism_and_immigration,claim,28,2017-01
+health insurance,healthcare,claim,28,2017-03
+supremacy,racism_and_immigration,claim,29,2017-01
+hospital,healthcare,claim,29,2017-03
+public,housing,claim,30,2017-05
+shooting,guns_and_criminal_justice,claim,30,2017-01
+white supremacy,racism_and_immigration,claim,30,2017-01
+nurses,healthcare,claim,30,2017-03
