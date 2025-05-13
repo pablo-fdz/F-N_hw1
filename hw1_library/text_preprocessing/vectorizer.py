@@ -23,7 +23,7 @@ def vectorizer(cv: Union[CountVectorizer, TfidfVectorizer], df: pd.DataFrame, co
     dtm_dense = dtm.todense()
 
     # Print DTM size
-    print("Document-term matrix has size", dtm_dense.shape)
+    print("Document-term matrix has size (documents, terms)", dtm_dense.shape)
 
     # Save extracted terms
     terms = cv.get_feature_names_out()

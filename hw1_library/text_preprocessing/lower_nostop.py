@@ -14,7 +14,7 @@ def lower_nostop(text, rm_stopwords = False, stopword_set = None):
     """
     text_lower = text.lower()
     
-    text_no_punct = re.sub(r'[^\w\s]', '', text_lower)  # Remove punctuation and replace with empty string
+    text_no_punct = re.sub(r'[^\w\s]', ' ', text_lower)  # Remove punctuation and replace with whitespace
     tokens = word_tokenize(text_no_punct)
     tokens = word_tokenize(text_no_punct)
     # Remove stopwords if desired

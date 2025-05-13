@@ -1,1 +1,1 @@
-from text_preprocessing import *
+from .text_preprocessing import *
