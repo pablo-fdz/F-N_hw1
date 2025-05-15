@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 from sklearn.metrics import precision_recall_curve, average_precision_score
 
-def plot_precision_recall(y_true, y_pred_probas, filename, save_directory):
+def plot_precision_recall(y_true, y_pred_probas, title, filename, save_directory):
 
     """
     Plot the precision-recall curve and save it to a file.
@@ -33,7 +33,7 @@ def plot_precision_recall(y_true, y_pred_probas, filename, save_directory):
     plt.gca().set_aspect('equal', adjustable='box')
     plt.xlabel('Recall')
     plt.ylabel('Precision')
-    plt.title('Precision/Recall Curve')
+    plt.title(title)
     plt.legend(loc="lower left")
     plt.savefig(save_directory + filename + '.png', dpi=300, bbox_inches='tight')
     plt.show()

@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 from sklearn.metrics import roc_curve, auc
 
-def plot_roc(y_true, y_pred_probas, filename, save_directory):
+def plot_roc(y_true, y_pred_probas, title, filename, save_directory):
 
     """
     Plot the ROC curve and save it to a file.
@@ -33,7 +33,7 @@ def plot_roc(y_true, y_pred_probas, filename, save_directory):
     plt.gca().set_aspect('equal', adjustable='box')
     plt.xlabel('False positive rate')
     plt.ylabel('True positive rate')
-    plt.title('ROC Curve')
+    plt.title(title)
     plt.legend(loc="lower right")
     plt.savefig(save_directory + filename + '.png', dpi=300, bbox_inches='tight')
     plt.show()
